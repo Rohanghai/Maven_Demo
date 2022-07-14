@@ -6,6 +6,5 @@ public class UserApp {
 		Calculator c = new Calculator();
 		int r=c.add(100,300);
 		System.out.println(r);
-
 	}
 }
